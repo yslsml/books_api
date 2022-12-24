@@ -1,8 +1,8 @@
 [{"id":1,"title":"1984","author":"George Orwell","year":"2022","price": "18.16", "genre": "anti-utopia", "image": "https://s5-goods.ozstatic.by/2000/449/348/10/10348449_0.jpg"},
 {"id":2,"title":"Portrait of Dorian Gray","author":"Oscar Wilde","year":"2019","price": "16.80", "genre": "novel", "image": "https://s2-goods.ozstatic.by/2000/203/642/10/10642203_0.jpg"},
-{"id":3,"title":"The second life of Uwe","author":"Fredrik Buckman","year":"2016","price": "37.20", "genre": "novel", "image": "https://s1-goods.ozstatic.by/2000/710/526/10/10526710_0.jpg"},
+{"id":3,"title":"The second life of Uwe","author":"Fredrik Buckman","year":"2016","price": "37.20", "genre": "detective", "image": "https://s1-goods.ozstatic.by/2000/710/526/10/10526710_0.jpg"},
 {"id":4,"title":"Flowers for Algernon","author":"Daniel Keyes","year":"2021","price": "20.00", "genre": "novel", "image": "https://s5-goods.ozstatic.by/2000/128/237/10/10237128_0.jpg"},
 {"id":5,"title":"Pride and prejudice","author":"Jane Austen","year":"2016","price": "18.14", "genre": "novel", "image": "https://s2-goods.ozstatic.by/2000/23/12/1/1012023_0.jpg"},
-{"id":6,"title":"The Queen's Move","author":"Walter Tevis","year":"2020","price": "25.38", "genre": "novel", "image": "https://s2-goods.ozstatic.by/2000/72/970/10/10970072_0.jpg"},
+{"id":6,"title":"The Queen's Move","author":"Walter Tevis","year":"2020","price": "25.38", "genre": "biografy", "image": "https://s2-goods.ozstatic.by/2000/72/970/10/10970072_0.jpg"},
 {"id":7,"title":"Overnight in Lisbon","author":"Erich Maria Remarque","year":"2018","price": "18.22", "genre": "novel", "image": "https://s5-goods.ozstatic.by/2000/39/642/10/10642039_0.jpg"},
-{"id":8,"title":"Long walk","author":"Stephen King","year":"2019","price": "12.40", "genre": "novel", "image": "https://s1-goods.ozstatic.by/2000/940/84/1/1084940_0.jpg"}]
+{"id":8,"title":"Long walk","author":"Stephen King","year":"2019","price": "12.40", "genre": "horror", "image": "https://s1-goods.ozstatic.by/2000/940/84/1/1084940_0.jpg"}]
